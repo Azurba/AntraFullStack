@@ -32,6 +32,7 @@ nav{
 
 a{
     color: white;
+    text-decoration: none;
 }
 
 .dropdown {
@@ -62,3 +63,32 @@ a{
   .dropdown_item a:hover {
      background-color: #f8f8ff
     }
+
+footer{
+    background-color: rgb(45, 43, 43);
+}
+
+.footer_div{
+    display: flex;
+}
+
+.footer_div_child{
+    flex: 1;
+}
+
+.footer_div_child:first-child {
+    margin-right: 20px;
+}
+
+.footer_div p{
+    color: white;
+}
+
+.footer_div li{
+    list-style: none;
+}
+
+.footer_div a{
+    text-decoration: none;
+}
+
