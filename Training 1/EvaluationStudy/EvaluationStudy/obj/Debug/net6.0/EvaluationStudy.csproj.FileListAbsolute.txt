@@ -1,0 +1,15 @@
+C:\Users\joaoh\source\repos\EvaluationStudy\EvaluationStudy\bin\Debug\net6.0\EvaluationStudy.exe
+C:\Users\joaoh\source\repos\EvaluationStudy\EvaluationStudy\bin\Debug\net6.0\EvaluationStudy.deps.json
+C:\Users\joaoh\source\repos\EvaluationStudy\EvaluationStudy\bin\Debug\net6.0\EvaluationStudy.runtimeconfig.json
+C:\Users\joaoh\source\repos\EvaluationStudy\EvaluationStudy\bin\Debug\net6.0\EvaluationStudy.dll
+C:\Users\joaoh\source\repos\EvaluationStudy\EvaluationStudy\bin\Debug\net6.0\EvaluationStudy.pdb
+C:\Users\joaoh\source\repos\EvaluationStudy\EvaluationStudy\obj\Debug\net6.0\EvaluationStudy.csproj.AssemblyReference.cache
+C:\Users\joaoh\source\repos\EvaluationStudy\EvaluationStudy\obj\Debug\net6.0\EvaluationStudy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoh\source\repos\EvaluationStudy\EvaluationStudy\obj\Debug\net6.0\EvaluationStudy.AssemblyInfoInputs.cache
+C:\Users\joaoh\source\repos\EvaluationStudy\EvaluationStudy\obj\Debug\net6.0\EvaluationStudy.AssemblyInfo.cs
+C:\Users\joaoh\source\repos\EvaluationStudy\EvaluationStudy\obj\Debug\net6.0\EvaluationStudy.csproj.CoreCompileInputs.cache
+C:\Users\joaoh\source\repos\EvaluationStudy\EvaluationStudy\obj\Debug\net6.0\EvaluationStudy.dll
+C:\Users\joaoh\source\repos\EvaluationStudy\EvaluationStudy\obj\Debug\net6.0\refint\EvaluationStudy.dll
+C:\Users\joaoh\source\repos\EvaluationStudy\EvaluationStudy\obj\Debug\net6.0\EvaluationStudy.pdb
+C:\Users\joaoh\source\repos\EvaluationStudy\EvaluationStudy\obj\Debug\net6.0\EvaluationStudy.genruntimeconfig.cache
+C:\Users\joaoh\source\repos\EvaluationStudy\EvaluationStudy\obj\Debug\net6.0\ref\EvaluationStudy.dll
