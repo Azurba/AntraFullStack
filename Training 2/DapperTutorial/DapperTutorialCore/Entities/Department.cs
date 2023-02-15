@@ -12,7 +12,7 @@ namespace DapperTutorialCore.Entities
     id int,
     Name varchar(30),
     Location varchar(40)
-    
+    Git test
     */
     public class Department
     {
