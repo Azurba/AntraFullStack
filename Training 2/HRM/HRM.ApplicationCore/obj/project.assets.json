@@ -3229,11 +3229,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joaoh\\OneDrive\\Antra FullStack Training\\Training 2\\Day 13\\HumanResourceManagement2\\HRM.ApplicationCore\\HRM.ApplicationCore.csproj",
+      "projectUniqueName": "d:\\Github\\AntraFullStack\\Training 2\\HRM\\HRM.ApplicationCore\\HRM.ApplicationCore.csproj",
       "projectName": "HRM.ApplicationCore",
-      "projectPath": "C:\\Users\\joaoh\\OneDrive\\Antra FullStack Training\\Training 2\\Day 13\\HumanResourceManagement2\\HRM.ApplicationCore\\HRM.ApplicationCore.csproj",
+      "projectPath": "d:\\Github\\AntraFullStack\\Training 2\\HRM\\HRM.ApplicationCore\\HRM.ApplicationCore.csproj",
       "packagesPath": "C:\\Users\\joaoh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joaoh\\OneDrive\\Antra FullStack Training\\Training 2\\Day 13\\HumanResourceManagement2\\HRM.ApplicationCore\\obj\\",
+      "outputPath": "d:\\Github\\AntraFullStack\\Training 2\\HRM\\HRM.ApplicationCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\joaoh\\AppData\\Roaming\\NuGet\\NuGet.Config",

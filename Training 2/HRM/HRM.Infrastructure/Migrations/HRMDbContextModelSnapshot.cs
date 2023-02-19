@@ -47,12 +47,11 @@ namespace HRM.Infrastructure.Migrations
                         .HasColumnType("varchar(10)");
 
                     b.Property<string>("ResumeUrl")
-                        .IsRequired()
                         .HasColumnType("varchar(200)");
 
                     b.HasKey("Id");
 
-                    b.ToTable("Candidate");
+                    b.ToTable("Candidate", (string)null);
                 });
 
             modelBuilder.Entity("HRM.ApplicationCore.Entity.Employee", b =>
@@ -105,7 +104,7 @@ namespace HRM.Infrastructure.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Employee");
+                    b.ToTable("Employee", (string)null);
                 });
 
             modelBuilder.Entity("HRM.ApplicationCore.Entity.EmployeeRole", b =>
@@ -129,7 +128,7 @@ namespace HRM.Infrastructure.Migrations
 
                     b.HasKey("id");
 
-                    b.ToTable("EmployeeRole");
+                    b.ToTable("EmployeeRole", (string)null);
                 });
 
             modelBuilder.Entity("HRM.ApplicationCore.Entity.EmployeeStatus", b =>
@@ -153,7 +152,7 @@ namespace HRM.Infrastructure.Migrations
 
                     b.HasKey("id");
 
-                    b.ToTable("EmployeeStatus");
+                    b.ToTable("EmployeeStatus", (string)null);
                 });
 
             modelBuilder.Entity("HRM.ApplicationCore.Entity.EmployeeType", b =>
@@ -177,7 +176,7 @@ namespace HRM.Infrastructure.Migrations
 
                     b.HasKey("id");
 
-                    b.ToTable("EmployeeType");
+                    b.ToTable("EmployeeType", (string)null);
                 });
 
             modelBuilder.Entity("HRM.ApplicationCore.Entity.Feedback", b =>
@@ -201,7 +200,7 @@ namespace HRM.Infrastructure.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Feedback");
+                    b.ToTable("Feedback", (string)null);
                 });
 
             modelBuilder.Entity("HRM.ApplicationCore.Entity.InterviewStatus", b =>
@@ -221,7 +220,7 @@ namespace HRM.Infrastructure.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("interviewStatus");
+                    b.ToTable("interviewStatus", (string)null);
                 });
 
             modelBuilder.Entity("HRM.ApplicationCore.Entity.InterviewTable", b =>
@@ -252,7 +251,7 @@ namespace HRM.Infrastructure.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("InterviewTable");
+                    b.ToTable("InterviewTable", (string)null);
                 });
 
             modelBuilder.Entity("HRM.ApplicationCore.Entity.InterviewType", b =>
@@ -272,7 +271,7 @@ namespace HRM.Infrastructure.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("interviewType");
+                    b.ToTable("interviewType", (string)null);
                 });
 
             modelBuilder.Entity("HRM.ApplicationCore.Entity.JobCategory", b =>
@@ -292,7 +291,7 @@ namespace HRM.Infrastructure.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("JobCategory");
+                    b.ToTable("JobCategory", (string)null);
                 });
 
             modelBuilder.Entity("HRM.ApplicationCore.Entity.JobRequirement", b =>
@@ -330,7 +329,7 @@ namespace HRM.Infrastructure.Migrations
 
                     b.HasIndex("JobCategoryId");
 
-                    b.ToTable("JobRequirement");
+                    b.ToTable("JobRequirement", (string)null);
                 });
 
             modelBuilder.Entity("HRM.ApplicationCore.Entity.Role", b =>
@@ -351,7 +350,7 @@ namespace HRM.Infrastructure.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Role");
+                    b.ToTable("Role", (string)null);
                 });
 
             modelBuilder.Entity("HRM.ApplicationCore.Entity.Submission", b =>
@@ -377,7 +376,7 @@ namespace HRM.Infrastructure.Migrations
 
                     b.HasIndex("JobRequirementId");
 
-                    b.ToTable("Submission");
+                    b.ToTable("Submission", (string)null);
                 });
 
             modelBuilder.Entity("HRM.ApplicationCore.Entity.User", b =>
@@ -402,7 +401,7 @@ namespace HRM.Infrastructure.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("User");
+                    b.ToTable("User", (string)null);
                 });
 
             modelBuilder.Entity("HRM.ApplicationCore.Entity.UserRole", b =>
@@ -421,7 +420,7 @@ namespace HRM.Infrastructure.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("UserRole");
+                    b.ToTable("UserRole", (string)null);
                 });
 
             modelBuilder.Entity("HRM.ApplicationCore.Entity.JobRequirement", b =>

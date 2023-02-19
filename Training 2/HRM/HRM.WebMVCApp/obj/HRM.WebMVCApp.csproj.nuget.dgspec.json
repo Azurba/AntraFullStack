@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joaoh\\OneDrive\\Antra FullStack Training\\Training 2\\Day 13\\HumanResourceManagement2\\HRM.WebMVCApp\\HRM.WebMVCApp.csproj": {}
+    "d:\\Github\\AntraFullStack\\Training 2\\HRM\\HRM.WebMVCApp\\HRM.WebMVCApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joaoh\\OneDrive\\Antra FullStack Training\\Training 2\\Day 13\\HumanResourceManagement2\\HRM.ApplicationCore\\HRM.ApplicationCore.csproj": {
+    "d:\\Github\\AntraFullStack\\Training 2\\HRM\\HRM.ApplicationCore\\HRM.ApplicationCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joaoh\\OneDrive\\Antra FullStack Training\\Training 2\\Day 13\\HumanResourceManagement2\\HRM.ApplicationCore\\HRM.ApplicationCore.csproj",
+        "projectUniqueName": "d:\\Github\\AntraFullStack\\Training 2\\HRM\\HRM.ApplicationCore\\HRM.ApplicationCore.csproj",
         "projectName": "HRM.ApplicationCore",
-        "projectPath": "C:\\Users\\joaoh\\OneDrive\\Antra FullStack Training\\Training 2\\Day 13\\HumanResourceManagement2\\HRM.ApplicationCore\\HRM.ApplicationCore.csproj",
+        "projectPath": "d:\\Github\\AntraFullStack\\Training 2\\HRM\\HRM.ApplicationCore\\HRM.ApplicationCore.csproj",
         "packagesPath": "C:\\Users\\joaoh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joaoh\\OneDrive\\Antra FullStack Training\\Training 2\\Day 13\\HumanResourceManagement2\\HRM.ApplicationCore\\obj\\",
+        "outputPath": "d:\\Github\\AntraFullStack\\Training 2\\HRM\\HRM.ApplicationCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joaoh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\joaoh\\OneDrive\\Antra FullStack Training\\Training 2\\Day 13\\HumanResourceManagement2\\HRM.Infrastructure\\HRM.Infrastructure.csproj": {
+    "d:\\Github\\AntraFullStack\\Training 2\\HRM\\HRM.Infrastructure\\HRM.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joaoh\\OneDrive\\Antra FullStack Training\\Training 2\\Day 13\\HumanResourceManagement2\\HRM.Infrastructure\\HRM.Infrastructure.csproj",
+        "projectUniqueName": "d:\\Github\\AntraFullStack\\Training 2\\HRM\\HRM.Infrastructure\\HRM.Infrastructure.csproj",
         "projectName": "HRM.Infrastructure",
-        "projectPath": "C:\\Users\\joaoh\\OneDrive\\Antra FullStack Training\\Training 2\\Day 13\\HumanResourceManagement2\\HRM.Infrastructure\\HRM.Infrastructure.csproj",
+        "projectPath": "d:\\Github\\AntraFullStack\\Training 2\\HRM\\HRM.Infrastructure\\HRM.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\joaoh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joaoh\\OneDrive\\Antra FullStack Training\\Training 2\\Day 13\\HumanResourceManagement2\\HRM.Infrastructure\\obj\\",
+        "outputPath": "d:\\Github\\AntraFullStack\\Training 2\\HRM\\HRM.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joaoh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -93,8 +93,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\joaoh\\OneDrive\\Antra FullStack Training\\Training 2\\Day 13\\HumanResourceManagement2\\HRM.ApplicationCore\\HRM.ApplicationCore.csproj": {
-                "projectPath": "C:\\Users\\joaoh\\OneDrive\\Antra FullStack Training\\Training 2\\Day 13\\HumanResourceManagement2\\HRM.ApplicationCore\\HRM.ApplicationCore.csproj"
+              "d:\\Github\\AntraFullStack\\Training 2\\HRM\\HRM.ApplicationCore\\HRM.ApplicationCore.csproj": {
+                "projectPath": "d:\\Github\\AntraFullStack\\Training 2\\HRM\\HRM.ApplicationCore\\HRM.ApplicationCore.csproj"
               }
             }
           }
@@ -142,14 +142,14 @@
         }
       }
     },
-    "C:\\Users\\joaoh\\OneDrive\\Antra FullStack Training\\Training 2\\Day 13\\HumanResourceManagement2\\HRM.WebMVCApp\\HRM.WebMVCApp.csproj": {
+    "d:\\Github\\AntraFullStack\\Training 2\\HRM\\HRM.WebMVCApp\\HRM.WebMVCApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joaoh\\OneDrive\\Antra FullStack Training\\Training 2\\Day 13\\HumanResourceManagement2\\HRM.WebMVCApp\\HRM.WebMVCApp.csproj",
+        "projectUniqueName": "d:\\Github\\AntraFullStack\\Training 2\\HRM\\HRM.WebMVCApp\\HRM.WebMVCApp.csproj",
         "projectName": "HRM.WebMVCApp",
-        "projectPath": "C:\\Users\\joaoh\\OneDrive\\Antra FullStack Training\\Training 2\\Day 13\\HumanResourceManagement2\\HRM.WebMVCApp\\HRM.WebMVCApp.csproj",
+        "projectPath": "d:\\Github\\AntraFullStack\\Training 2\\HRM\\HRM.WebMVCApp\\HRM.WebMVCApp.csproj",
         "packagesPath": "C:\\Users\\joaoh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joaoh\\OneDrive\\Antra FullStack Training\\Training 2\\Day 13\\HumanResourceManagement2\\HRM.WebMVCApp\\obj\\",
+        "outputPath": "d:\\Github\\AntraFullStack\\Training 2\\HRM\\HRM.WebMVCApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joaoh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -166,8 +166,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\joaoh\\OneDrive\\Antra FullStack Training\\Training 2\\Day 13\\HumanResourceManagement2\\HRM.Infrastructure\\HRM.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\joaoh\\OneDrive\\Antra FullStack Training\\Training 2\\Day 13\\HumanResourceManagement2\\HRM.Infrastructure\\HRM.Infrastructure.csproj"
+              "d:\\Github\\AntraFullStack\\Training 2\\HRM\\HRM.Infrastructure\\HRM.Infrastructure.csproj": {
+                "projectPath": "d:\\Github\\AntraFullStack\\Training 2\\HRM\\HRM.Infrastructure\\HRM.Infrastructure.csproj"
               }
             }
           }
@@ -195,6 +195,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.3, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.12, )"
             }
           },
           "imports": [

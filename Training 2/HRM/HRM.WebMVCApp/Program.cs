@@ -1,5 +1,8 @@
 using HRM.ApplicationCore.Contract.Repository;
+using HRM.ApplicationCore.Contract.Service;
 using HRM.Infrastructure.Data;
+using HRM.Infrastructure.Repository;
+using HRM.Infrastructure.Service;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -11,11 +14,14 @@ builder.Services.AddDbContext<HRMDbContext>(option => {
     option.UseSqlServer(builder.Configuration.GetConnectionString("HrmDb"));
 });
 
-//Dependency injection for repositories
-builder.Services.AddScoped<ICandidateRepositoryAsync, ICandidateRepositoryAsync>();
+
+//dependency injection for repositories
+builder.Services.AddScoped<ICandidateRepositoryAsync, CandidateRepositoryAsync>();
+
 
 //dependency injection for services
-//builder.Services.AddScoped<ICandidateRepositoryAsync, CandidateServiceAsync>();
+builder.Services.AddScoped<ICandidateServiceAsync, CandidateServiceAsync>();
+
 
 
 var app = builder.Build();

@@ -12,7 +12,7 @@ namespace HRM.ApplicationCore.Entity
     {
         public int Id { get; set; }
         [Required]
-        [Column(TypeName ="varchar(20)")]
+        [Column(TypeName = "varchar(20)")]
         public string FirstName { get; set; }
         [Required]
         [Column(TypeName = "varchar(20)")]
@@ -23,12 +23,12 @@ namespace HRM.ApplicationCore.Entity
         public string Mobile { get; set; }
 
         [Required]
-        
+
         [Column(TypeName = "varchar(70)")]
         [DataType(DataType.EmailAddress)]
         public string EmailId { get; set; }
 
-        [Column(TypeName ="varchar(200)")]
-        public string ResumeUrl { get; set; }
+        [Column(TypeName = "varchar(200)")]
+        public string? ResumeUrl { get; set; }
     }
 }

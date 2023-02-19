@@ -13,3 +13,18 @@ C:\Users\joaoh\Desktop\HumanResourceManagement\HRM.Infrastructure\obj\Debug\net6
 C:\Users\joaoh\Desktop\HumanResourceManagement\HRM.Infrastructure\obj\Debug\net6.0\refint\HRM.Infrastructure.dll
 C:\Users\joaoh\Desktop\HumanResourceManagement\HRM.Infrastructure\obj\Debug\net6.0\HRM.Infrastructure.pdb
 C:\Users\joaoh\Desktop\HumanResourceManagement\HRM.Infrastructure\obj\Debug\net6.0\ref\HRM.Infrastructure.dll
+C:\Users\joaoh\OneDrive\Antra FullStack Training\Training 2\Day 13\HumanResourceManagement2\HRM.Infrastructure\bin\Debug\net6.0\HRM.Infrastructure.deps.json
+C:\Users\joaoh\OneDrive\Antra FullStack Training\Training 2\Day 13\HumanResourceManagement2\HRM.Infrastructure\bin\Debug\net6.0\HRM.Infrastructure.dll
+C:\Users\joaoh\OneDrive\Antra FullStack Training\Training 2\Day 13\HumanResourceManagement2\HRM.Infrastructure\bin\Debug\net6.0\HRM.Infrastructure.pdb
+C:\Users\joaoh\OneDrive\Antra FullStack Training\Training 2\Day 13\HumanResourceManagement2\HRM.Infrastructure\bin\Debug\net6.0\HRM.ApplicationCore.dll
+C:\Users\joaoh\OneDrive\Antra FullStack Training\Training 2\Day 13\HumanResourceManagement2\HRM.Infrastructure\bin\Debug\net6.0\HRM.ApplicationCore.pdb
+C:\Users\joaoh\OneDrive\Antra FullStack Training\Training 2\Day 13\HumanResourceManagement2\HRM.Infrastructure\obj\Debug\net6.0\HRM.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\joaoh\OneDrive\Antra FullStack Training\Training 2\Day 13\HumanResourceManagement2\HRM.Infrastructure\obj\Debug\net6.0\HRM.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoh\OneDrive\Antra FullStack Training\Training 2\Day 13\HumanResourceManagement2\HRM.Infrastructure\obj\Debug\net6.0\HRM.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\joaoh\OneDrive\Antra FullStack Training\Training 2\Day 13\HumanResourceManagement2\HRM.Infrastructure\obj\Debug\net6.0\HRM.Infrastructure.AssemblyInfo.cs
+C:\Users\joaoh\OneDrive\Antra FullStack Training\Training 2\Day 13\HumanResourceManagement2\HRM.Infrastructure\obj\Debug\net6.0\HRM.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\joaoh\OneDrive\Antra FullStack Training\Training 2\Day 13\HumanResourceManagement2\HRM.Infrastructure\obj\Debug\net6.0\HRM.Infrastructure.csproj.CopyComplete
+C:\Users\joaoh\OneDrive\Antra FullStack Training\Training 2\Day 13\HumanResourceManagement2\HRM.Infrastructure\obj\Debug\net6.0\HRM.Infrastructure.dll
+C:\Users\joaoh\OneDrive\Antra FullStack Training\Training 2\Day 13\HumanResourceManagement2\HRM.Infrastructure\obj\Debug\net6.0\refint\HRM.Infrastructure.dll
+C:\Users\joaoh\OneDrive\Antra FullStack Training\Training 2\Day 13\HumanResourceManagement2\HRM.Infrastructure\obj\Debug\net6.0\HRM.Infrastructure.pdb
+C:\Users\joaoh\OneDrive\Antra FullStack Training\Training 2\Day 13\HumanResourceManagement2\HRM.Infrastructure\obj\Debug\net6.0\ref\HRM.Infrastructure.dll
