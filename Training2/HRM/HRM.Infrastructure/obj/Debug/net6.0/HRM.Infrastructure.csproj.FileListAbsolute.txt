@@ -28,3 +28,18 @@ C:\Users\joaoh\OneDrive\Antra FullStack Training\Training 2\Day 13\HumanResource
 C:\Users\joaoh\OneDrive\Antra FullStack Training\Training 2\Day 13\HumanResourceManagement2\HRM.Infrastructure\obj\Debug\net6.0\refint\HRM.Infrastructure.dll
 C:\Users\joaoh\OneDrive\Antra FullStack Training\Training 2\Day 13\HumanResourceManagement2\HRM.Infrastructure\obj\Debug\net6.0\HRM.Infrastructure.pdb
 C:\Users\joaoh\OneDrive\Antra FullStack Training\Training 2\Day 13\HumanResourceManagement2\HRM.Infrastructure\obj\Debug\net6.0\ref\HRM.Infrastructure.dll
+D:\Github\AntraFullStack\Training2\HRM\HRM.Infrastructure\bin\Debug\net6.0\HRM.Infrastructure.deps.json
+D:\Github\AntraFullStack\Training2\HRM\HRM.Infrastructure\bin\Debug\net6.0\HRM.Infrastructure.dll
+D:\Github\AntraFullStack\Training2\HRM\HRM.Infrastructure\bin\Debug\net6.0\HRM.Infrastructure.pdb
+D:\Github\AntraFullStack\Training2\HRM\HRM.Infrastructure\bin\Debug\net6.0\HRM.ApplicationCore.dll
+D:\Github\AntraFullStack\Training2\HRM\HRM.Infrastructure\bin\Debug\net6.0\HRM.ApplicationCore.pdb
+D:\Github\AntraFullStack\Training2\HRM\HRM.Infrastructure\obj\Debug\net6.0\HRM.Infrastructure.csproj.AssemblyReference.cache
+D:\Github\AntraFullStack\Training2\HRM\HRM.Infrastructure\obj\Debug\net6.0\HRM.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\AntraFullStack\Training2\HRM\HRM.Infrastructure\obj\Debug\net6.0\HRM.Infrastructure.AssemblyInfoInputs.cache
+D:\Github\AntraFullStack\Training2\HRM\HRM.Infrastructure\obj\Debug\net6.0\HRM.Infrastructure.AssemblyInfo.cs
+D:\Github\AntraFullStack\Training2\HRM\HRM.Infrastructure\obj\Debug\net6.0\HRM.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Github\AntraFullStack\Training2\HRM\HRM.Infrastructure\obj\Debug\net6.0\HRM.Infrastructure.csproj.CopyComplete
+D:\Github\AntraFullStack\Training2\HRM\HRM.Infrastructure\obj\Debug\net6.0\HRM.Infrastructure.dll
+D:\Github\AntraFullStack\Training2\HRM\HRM.Infrastructure\obj\Debug\net6.0\refint\HRM.Infrastructure.dll
+D:\Github\AntraFullStack\Training2\HRM\HRM.Infrastructure\obj\Debug\net6.0\HRM.Infrastructure.pdb
+D:\Github\AntraFullStack\Training2\HRM\HRM.Infrastructure\obj\Debug\net6.0\ref\HRM.Infrastructure.dll

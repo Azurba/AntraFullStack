@@ -22,3 +22,15 @@ C:\Users\joaoh\OneDrive\Antra FullStack Training\Training 2\Day 13\HumanResource
 C:\Users\joaoh\OneDrive\Antra FullStack Training\Training 2\Day 13\HumanResourceManagement2\HRM.ApplicationCore\obj\Debug\net6.0\refint\HRM.ApplicationCore.dll
 C:\Users\joaoh\OneDrive\Antra FullStack Training\Training 2\Day 13\HumanResourceManagement2\HRM.ApplicationCore\obj\Debug\net6.0\HRM.ApplicationCore.pdb
 C:\Users\joaoh\OneDrive\Antra FullStack Training\Training 2\Day 13\HumanResourceManagement2\HRM.ApplicationCore\obj\Debug\net6.0\ref\HRM.ApplicationCore.dll
+D:\Github\AntraFullStack\Training2\HRM\HRM.ApplicationCore\bin\Debug\net6.0\HRM.ApplicationCore.deps.json
+D:\Github\AntraFullStack\Training2\HRM\HRM.ApplicationCore\bin\Debug\net6.0\HRM.ApplicationCore.dll
+D:\Github\AntraFullStack\Training2\HRM\HRM.ApplicationCore\bin\Debug\net6.0\HRM.ApplicationCore.pdb
+D:\Github\AntraFullStack\Training2\HRM\HRM.ApplicationCore\obj\Debug\net6.0\HRM.ApplicationCore.csproj.AssemblyReference.cache
+D:\Github\AntraFullStack\Training2\HRM\HRM.ApplicationCore\obj\Debug\net6.0\HRM.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\AntraFullStack\Training2\HRM\HRM.ApplicationCore\obj\Debug\net6.0\HRM.ApplicationCore.AssemblyInfoInputs.cache
+D:\Github\AntraFullStack\Training2\HRM\HRM.ApplicationCore\obj\Debug\net6.0\HRM.ApplicationCore.AssemblyInfo.cs
+D:\Github\AntraFullStack\Training2\HRM\HRM.ApplicationCore\obj\Debug\net6.0\HRM.ApplicationCore.csproj.CoreCompileInputs.cache
+D:\Github\AntraFullStack\Training2\HRM\HRM.ApplicationCore\obj\Debug\net6.0\HRM.ApplicationCore.dll
+D:\Github\AntraFullStack\Training2\HRM\HRM.ApplicationCore\obj\Debug\net6.0\refint\HRM.ApplicationCore.dll
+D:\Github\AntraFullStack\Training2\HRM\HRM.ApplicationCore\obj\Debug\net6.0\HRM.ApplicationCore.pdb
+D:\Github\AntraFullStack\Training2\HRM\HRM.ApplicationCore\obj\Debug\net6.0\ref\HRM.ApplicationCore.dll

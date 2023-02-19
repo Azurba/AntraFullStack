@@ -10768,11 +10768,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joaoh\\OneDrive\\Antra FullStack Training\\Training 2\\Day 13\\HumanResourceManagement2\\HRM.WebMVCApp\\HRM.WebMVCApp.csproj",
+      "projectUniqueName": "D:\\Github\\AntraFullStack\\Training2\\HRM\\HRM.WebMVCApp\\HRM.WebMVCApp.csproj",
       "projectName": "HRM.WebMVCApp",
-      "projectPath": "C:\\Users\\joaoh\\OneDrive\\Antra FullStack Training\\Training 2\\Day 13\\HumanResourceManagement2\\HRM.WebMVCApp\\HRM.WebMVCApp.csproj",
+      "projectPath": "D:\\Github\\AntraFullStack\\Training2\\HRM\\HRM.WebMVCApp\\HRM.WebMVCApp.csproj",
       "packagesPath": "C:\\Users\\joaoh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joaoh\\OneDrive\\Antra FullStack Training\\Training 2\\Day 13\\HumanResourceManagement2\\HRM.WebMVCApp\\obj\\",
+      "outputPath": "D:\\Github\\AntraFullStack\\Training2\\HRM\\HRM.WebMVCApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\joaoh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -10789,8 +10789,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\joaoh\\OneDrive\\Antra FullStack Training\\Training 2\\Day 13\\HumanResourceManagement2\\HRM.Infrastructure\\HRM.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\joaoh\\OneDrive\\Antra FullStack Training\\Training 2\\Day 13\\HumanResourceManagement2\\HRM.Infrastructure\\HRM.Infrastructure.csproj"
+            "D:\\Github\\AntraFullStack\\Training2\\HRM\\HRM.Infrastructure\\HRM.Infrastructure.csproj": {
+              "projectPath": "D:\\Github\\AntraFullStack\\Training2\\HRM\\HRM.Infrastructure\\HRM.Infrastructure.csproj"
             }
           }
         }

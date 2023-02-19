@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fKrwWe1sysiEMITFu4ZV34BaB3gyt3I9gf/EBuZN4mFFfR2kdR0TBvJH0ygeiyUo8e3c+X0T8XaClJPXNP7R5g==",
+  "dgSpecHash": "3pFolz5DdNs0vH434cVEhW3LcJUscipzd00Gd+a4GVQdJ+NbYGB9LLs/e9rtq4Vo6ziiVZeMjQHR9uWyZHYWWQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joaoh\\OneDrive\\Antra FullStack Training\\Training 2\\Day 13\\HumanResourceManagement2\\HRM.WebMVCApp\\HRM.WebMVCApp.csproj",
+  "projectFilePath": "D:\\Github\\AntraFullStack\\Training2\\HRM\\HRM.WebMVCApp\\HRM.WebMVCApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joaoh\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\joaoh\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
