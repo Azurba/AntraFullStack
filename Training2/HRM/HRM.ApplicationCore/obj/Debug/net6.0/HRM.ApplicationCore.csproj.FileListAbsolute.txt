@@ -1,0 +1,24 @@
+C:\Users\joaoh\Desktop\HumanResourceManagement\HRM.ApplicationCore\bin\Debug\net6.0\HRM.ApplicationCore.deps.json
+C:\Users\joaoh\Desktop\HumanResourceManagement\HRM.ApplicationCore\bin\Debug\net6.0\HRM.ApplicationCore.dll
+C:\Users\joaoh\Desktop\HumanResourceManagement\HRM.ApplicationCore\bin\Debug\net6.0\HRM.ApplicationCore.pdb
+C:\Users\joaoh\Desktop\HumanResourceManagement\HRM.ApplicationCore\obj\Debug\net6.0\HRM.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\joaoh\Desktop\HumanResourceManagement\HRM.ApplicationCore\obj\Debug\net6.0\HRM.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoh\Desktop\HumanResourceManagement\HRM.ApplicationCore\obj\Debug\net6.0\HRM.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\joaoh\Desktop\HumanResourceManagement\HRM.ApplicationCore\obj\Debug\net6.0\HRM.ApplicationCore.AssemblyInfo.cs
+C:\Users\joaoh\Desktop\HumanResourceManagement\HRM.ApplicationCore\obj\Debug\net6.0\HRM.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\joaoh\Desktop\HumanResourceManagement\HRM.ApplicationCore\obj\Debug\net6.0\HRM.ApplicationCore.dll
+C:\Users\joaoh\Desktop\HumanResourceManagement\HRM.ApplicationCore\obj\Debug\net6.0\refint\HRM.ApplicationCore.dll
+C:\Users\joaoh\Desktop\HumanResourceManagement\HRM.ApplicationCore\obj\Debug\net6.0\HRM.ApplicationCore.pdb
+C:\Users\joaoh\Desktop\HumanResourceManagement\HRM.ApplicationCore\obj\Debug\net6.0\ref\HRM.ApplicationCore.dll
+C:\Users\joaoh\OneDrive\Antra FullStack Training\Training 2\Day 13\HumanResourceManagement2\HRM.ApplicationCore\bin\Debug\net6.0\HRM.ApplicationCore.deps.json
+C:\Users\joaoh\OneDrive\Antra FullStack Training\Training 2\Day 13\HumanResourceManagement2\HRM.ApplicationCore\bin\Debug\net6.0\HRM.ApplicationCore.dll
+C:\Users\joaoh\OneDrive\Antra FullStack Training\Training 2\Day 13\HumanResourceManagement2\HRM.ApplicationCore\bin\Debug\net6.0\HRM.ApplicationCore.pdb
+C:\Users\joaoh\OneDrive\Antra FullStack Training\Training 2\Day 13\HumanResourceManagement2\HRM.ApplicationCore\obj\Debug\net6.0\HRM.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\joaoh\OneDrive\Antra FullStack Training\Training 2\Day 13\HumanResourceManagement2\HRM.ApplicationCore\obj\Debug\net6.0\HRM.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoh\OneDrive\Antra FullStack Training\Training 2\Day 13\HumanResourceManagement2\HRM.ApplicationCore\obj\Debug\net6.0\HRM.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\joaoh\OneDrive\Antra FullStack Training\Training 2\Day 13\HumanResourceManagement2\HRM.ApplicationCore\obj\Debug\net6.0\HRM.ApplicationCore.AssemblyInfo.cs
+C:\Users\joaoh\OneDrive\Antra FullStack Training\Training 2\Day 13\HumanResourceManagement2\HRM.ApplicationCore\obj\Debug\net6.0\HRM.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\joaoh\OneDrive\Antra FullStack Training\Training 2\Day 13\HumanResourceManagement2\HRM.ApplicationCore\obj\Debug\net6.0\HRM.ApplicationCore.dll
+C:\Users\joaoh\OneDrive\Antra FullStack Training\Training 2\Day 13\HumanResourceManagement2\HRM.ApplicationCore\obj\Debug\net6.0\refint\HRM.ApplicationCore.dll
+C:\Users\joaoh\OneDrive\Antra FullStack Training\Training 2\Day 13\HumanResourceManagement2\HRM.ApplicationCore\obj\Debug\net6.0\HRM.ApplicationCore.pdb
+C:\Users\joaoh\OneDrive\Antra FullStack Training\Training 2\Day 13\HumanResourceManagement2\HRM.ApplicationCore\obj\Debug\net6.0\ref\HRM.ApplicationCore.dll
