@@ -1,0 +1,17 @@
+C:\Users\joaoh\source\repos\HrmAPi\Hrm.Infrastructure\bin\Debug\net6.0\Hrm.Infrastructure.deps.json
+C:\Users\joaoh\source\repos\HrmAPi\Hrm.Infrastructure\bin\Debug\net6.0\Hrm.Infrastructure.runtimeconfig.json
+C:\Users\joaoh\source\repos\HrmAPi\Hrm.Infrastructure\bin\Debug\net6.0\Hrm.Infrastructure.dll
+C:\Users\joaoh\source\repos\HrmAPi\Hrm.Infrastructure\bin\Debug\net6.0\Hrm.Infrastructure.pdb
+C:\Users\joaoh\source\repos\HrmAPi\Hrm.Infrastructure\bin\Debug\net6.0\Hrm.ApplicationCore.dll
+C:\Users\joaoh\source\repos\HrmAPi\Hrm.Infrastructure\bin\Debug\net6.0\Hrm.ApplicationCore.pdb
+C:\Users\joaoh\source\repos\HrmAPi\Hrm.Infrastructure\obj\Debug\net6.0\Hrm.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\joaoh\source\repos\HrmAPi\Hrm.Infrastructure\obj\Debug\net6.0\Hrm.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoh\source\repos\HrmAPi\Hrm.Infrastructure\obj\Debug\net6.0\Hrm.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\joaoh\source\repos\HrmAPi\Hrm.Infrastructure\obj\Debug\net6.0\Hrm.Infrastructure.AssemblyInfo.cs
+C:\Users\joaoh\source\repos\HrmAPi\Hrm.Infrastructure\obj\Debug\net6.0\Hrm.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\joaoh\source\repos\HrmAPi\Hrm.Infrastructure\obj\Debug\net6.0\Hrm.Infrastructure.csproj.CopyComplete
+C:\Users\joaoh\source\repos\HrmAPi\Hrm.Infrastructure\obj\Debug\net6.0\Hrm.Infrastructure.dll
+C:\Users\joaoh\source\repos\HrmAPi\Hrm.Infrastructure\obj\Debug\net6.0\refint\Hrm.Infrastructure.dll
+C:\Users\joaoh\source\repos\HrmAPi\Hrm.Infrastructure\obj\Debug\net6.0\Hrm.Infrastructure.pdb
+C:\Users\joaoh\source\repos\HrmAPi\Hrm.Infrastructure\obj\Debug\net6.0\Hrm.Infrastructure.genruntimeconfig.cache
+C:\Users\joaoh\source\repos\HrmAPi\Hrm.Infrastructure\obj\Debug\net6.0\ref\Hrm.Infrastructure.dll

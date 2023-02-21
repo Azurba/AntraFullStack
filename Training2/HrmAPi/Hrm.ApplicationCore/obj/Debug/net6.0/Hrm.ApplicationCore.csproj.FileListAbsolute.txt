@@ -1,0 +1,12 @@
+C:\Users\joaoh\source\repos\HrmAPi\Hrm.ApplicationCore\bin\Debug\net6.0\Hrm.ApplicationCore.deps.json
+C:\Users\joaoh\source\repos\HrmAPi\Hrm.ApplicationCore\bin\Debug\net6.0\Hrm.ApplicationCore.dll
+C:\Users\joaoh\source\repos\HrmAPi\Hrm.ApplicationCore\bin\Debug\net6.0\Hrm.ApplicationCore.pdb
+C:\Users\joaoh\source\repos\HrmAPi\Hrm.ApplicationCore\obj\Debug\net6.0\Hrm.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\joaoh\source\repos\HrmAPi\Hrm.ApplicationCore\obj\Debug\net6.0\Hrm.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoh\source\repos\HrmAPi\Hrm.ApplicationCore\obj\Debug\net6.0\Hrm.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\joaoh\source\repos\HrmAPi\Hrm.ApplicationCore\obj\Debug\net6.0\Hrm.ApplicationCore.AssemblyInfo.cs
+C:\Users\joaoh\source\repos\HrmAPi\Hrm.ApplicationCore\obj\Debug\net6.0\Hrm.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\joaoh\source\repos\HrmAPi\Hrm.ApplicationCore\obj\Debug\net6.0\Hrm.ApplicationCore.dll
+C:\Users\joaoh\source\repos\HrmAPi\Hrm.ApplicationCore\obj\Debug\net6.0\refint\Hrm.ApplicationCore.dll
+C:\Users\joaoh\source\repos\HrmAPi\Hrm.ApplicationCore\obj\Debug\net6.0\Hrm.ApplicationCore.pdb
+C:\Users\joaoh\source\repos\HrmAPi\Hrm.ApplicationCore\obj\Debug\net6.0\ref\Hrm.ApplicationCore.dll
