@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\HRM.Infrastructure",
+    "\\HRM.Infrastructure\\Repository",
+    "\\HRM.Infrastructure\\Service",
+    "\\HRM.WebMVCApp",
+    "\\HRM.WebMVCApp\\Controllers"
+  ],
+  "SelectedNode": "\\HRM.WebMVCApp\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
