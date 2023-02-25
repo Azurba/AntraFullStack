@@ -86,7 +86,6 @@ namespace Hrm.Infrastructure.Migrations
                         .HasColumnType("datetime2");
 
                     b.Property<string>("Description")
-                        .IsRequired()
                         .HasColumnType("varchar(500)");
 
                     b.Property<bool>("IsActive")

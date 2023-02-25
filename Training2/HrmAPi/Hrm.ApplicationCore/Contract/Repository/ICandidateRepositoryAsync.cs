@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Hrm.ApplicationCore.Contract.Repository
 {
-    public interface ICandidateRepositoryAsync:IRepositoryAsync<Candidate>
+    public interface IJobRequirementRepositoryAsync : IRepositoryAsync<JobRequirement>
     {
     }
 }

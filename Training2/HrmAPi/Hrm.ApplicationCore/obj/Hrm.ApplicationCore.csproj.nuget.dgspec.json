@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joaoh\\source\\repos\\HrmAPi\\Hrm.ApplicationCore\\Hrm.ApplicationCore.csproj": {}
+    "D:\\Github\\AntraFullStack\\Training2\\HrmAPi\\Hrm.ApplicationCore\\Hrm.ApplicationCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joaoh\\source\\repos\\HrmAPi\\Hrm.ApplicationCore\\Hrm.ApplicationCore.csproj": {
+    "D:\\Github\\AntraFullStack\\Training2\\HrmAPi\\Hrm.ApplicationCore\\Hrm.ApplicationCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joaoh\\source\\repos\\HrmAPi\\Hrm.ApplicationCore\\Hrm.ApplicationCore.csproj",
+        "projectUniqueName": "D:\\Github\\AntraFullStack\\Training2\\HrmAPi\\Hrm.ApplicationCore\\Hrm.ApplicationCore.csproj",
         "projectName": "Hrm.ApplicationCore",
-        "projectPath": "C:\\Users\\joaoh\\source\\repos\\HrmAPi\\Hrm.ApplicationCore\\Hrm.ApplicationCore.csproj",
+        "projectPath": "D:\\Github\\AntraFullStack\\Training2\\HrmAPi\\Hrm.ApplicationCore\\Hrm.ApplicationCore.csproj",
         "packagesPath": "C:\\Users\\joaoh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joaoh\\source\\repos\\HrmAPi\\Hrm.ApplicationCore\\obj\\",
+        "outputPath": "D:\\Github\\AntraFullStack\\Training2\\HrmAPi\\Hrm.ApplicationCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joaoh\\AppData\\Roaming\\NuGet\\NuGet.Config",

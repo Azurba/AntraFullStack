@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jx44Ly5z5HRHmcFj9CLcW8gMwuupnz8sIMIPIl5J1+vmmZ+Fr3a5jZdo5X+2JsPPrw8XTBAePffdwdI5VDtycQ==",
+  "dgSpecHash": "Y5dqf7lc5X92U9xSfD3DBxRmVzmXJhW/3Kd+NBygY1lojy0P2f0g0mjQl7WQQU2a9YKggCyIHbLTxviqmF8fXg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joaoh\\source\\repos\\HrmAPi\\Hrm.ApplicationCore\\Hrm.ApplicationCore.csproj",
+  "projectFilePath": "D:\\Github\\AntraFullStack\\Training2\\HrmAPi\\Hrm.ApplicationCore\\Hrm.ApplicationCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joaoh\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\joaoh\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

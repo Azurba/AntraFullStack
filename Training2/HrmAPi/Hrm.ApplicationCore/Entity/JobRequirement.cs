@@ -16,7 +16,7 @@ namespace Hrm.ApplicationCore.Entity
         public string Title { get; set; }
 
         [Column(TypeName = "varchar(500)")]
-        public string Description { get; set; }
+        public string? Description { get; set; }
         public int TotalPositions { get; set; }
         public DateTime PostingDate { get; set; }
         public DateTime ClosingDate { get; set; }

@@ -3,6 +3,9 @@ using Hrm.ApplicationCore.Contract.Service;
 using Hrm.Infrastructure.Data;
 using Hrm.Infrastructure.Repository;
 using Hrm.Infrastructure.Service;
+using HRM.ApplicationCore.Contract.Service;
+using HRM.Infrastructure.Repository;
+using HRM.Infrastructure.Service;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -22,7 +25,11 @@ builder.Services.AddDbContext<HrmDbContext>(options => {
     options.UseSqlServer(builder.Configuration.GetConnectionString("HrmApiDb"));
 });
 builder.Services.AddScoped<ICandidateServiceAsync, CandidateServiceAsync>();
+builder.Services.AddScoped<IJobRequirementServiceAsync, JobRequirementServiceAsync>();
+
+
 builder.Services.AddScoped<ICandidateRepositoryAsync, CandidateRepositoryAsync>();
+builder.Services.AddScoped<IJobRequirementRepositoryAsync, JobRequirementRepositoryAsync>();
 
 
 var app = builder.Build();

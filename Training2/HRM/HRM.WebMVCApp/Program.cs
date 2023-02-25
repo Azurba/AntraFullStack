@@ -11,9 +11,11 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+//This is used to get any environment variable defined in our app, like the connection string
+var connectionString = Environment.GetEnvironmentVariable("HrmDb");
 builder.Services.AddDbContext<HRMDbContext>(option => {
 
-    option.UseSqlServer(builder.Configuration.GetConnectionString("HrmDb"));
+    //option.UseSqlServer(builder.Configuration.GetConnectionString("HrmDb"));
 });
 
 

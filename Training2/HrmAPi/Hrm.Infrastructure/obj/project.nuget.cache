@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0GUmGJxtJei+pVxvrflCZASaaESZd1NC7WkgL60fCrnCpsy4pyYrMzHhjKEY0iNdM+70DoPqX1jU0Okik6l7Yg==",
+  "dgSpecHash": "i0RsVurBlOWbOLGLsC9GFeMTQIWnexd9BxcUSyyxJYbRxgF26BW/KgkG6mFUlYOHJrQNdZe5rEgzLmAGiz6joQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joaoh\\source\\repos\\HrmAPi\\Hrm.Infrastructure\\Hrm.Infrastructure.csproj",
+  "projectFilePath": "D:\\Github\\AntraFullStack\\Training2\\HrmAPi\\Hrm.Infrastructure\\Hrm.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joaoh\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\joaoh\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
