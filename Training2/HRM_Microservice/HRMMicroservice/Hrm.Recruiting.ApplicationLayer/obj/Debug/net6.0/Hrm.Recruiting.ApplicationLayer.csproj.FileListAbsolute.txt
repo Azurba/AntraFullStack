@@ -1,0 +1,14 @@
+C:\Users\joaoh\source\repos\HRMMicroservice\Hrm.Recruiting.ApplicationLayer\bin\Debug\net6.0\Hrm.Recruiting.ApplicationLayer.deps.json
+C:\Users\joaoh\source\repos\HRMMicroservice\Hrm.Recruiting.ApplicationLayer\bin\Debug\net6.0\Hrm.Recruiting.ApplicationLayer.runtimeconfig.json
+C:\Users\joaoh\source\repos\HRMMicroservice\Hrm.Recruiting.ApplicationLayer\bin\Debug\net6.0\Hrm.Recruiting.ApplicationLayer.dll
+C:\Users\joaoh\source\repos\HRMMicroservice\Hrm.Recruiting.ApplicationLayer\bin\Debug\net6.0\Hrm.Recruiting.ApplicationLayer.pdb
+C:\Users\joaoh\source\repos\HRMMicroservice\Hrm.Recruiting.ApplicationLayer\obj\Debug\net6.0\Hrm.Recruiting.ApplicationLayer.csproj.AssemblyReference.cache
+C:\Users\joaoh\source\repos\HRMMicroservice\Hrm.Recruiting.ApplicationLayer\obj\Debug\net6.0\Hrm.Recruiting.ApplicationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoh\source\repos\HRMMicroservice\Hrm.Recruiting.ApplicationLayer\obj\Debug\net6.0\Hrm.Recruiting.ApplicationLayer.AssemblyInfoInputs.cache
+C:\Users\joaoh\source\repos\HRMMicroservice\Hrm.Recruiting.ApplicationLayer\obj\Debug\net6.0\Hrm.Recruiting.ApplicationLayer.AssemblyInfo.cs
+C:\Users\joaoh\source\repos\HRMMicroservice\Hrm.Recruiting.ApplicationLayer\obj\Debug\net6.0\Hrm.Recruiting.ApplicationLayer.csproj.CoreCompileInputs.cache
+C:\Users\joaoh\source\repos\HRMMicroservice\Hrm.Recruiting.ApplicationLayer\obj\Debug\net6.0\Hrm.Recruiting.ApplicationLayer.dll
+C:\Users\joaoh\source\repos\HRMMicroservice\Hrm.Recruiting.ApplicationLayer\obj\Debug\net6.0\refint\Hrm.Recruiting.ApplicationLayer.dll
+C:\Users\joaoh\source\repos\HRMMicroservice\Hrm.Recruiting.ApplicationLayer\obj\Debug\net6.0\Hrm.Recruiting.ApplicationLayer.pdb
+C:\Users\joaoh\source\repos\HRMMicroservice\Hrm.Recruiting.ApplicationLayer\obj\Debug\net6.0\Hrm.Recruiting.ApplicationLayer.genruntimeconfig.cache
+C:\Users\joaoh\source\repos\HRMMicroservice\Hrm.Recruiting.ApplicationLayer\obj\Debug\net6.0\ref\Hrm.Recruiting.ApplicationLayer.dll

@@ -1,0 +1,14 @@
+C:\Users\joaoh\source\repos\HRMMicroservice\Interview.APILayer\bin\Debug\net6.0\Hrm.Interview.APILayer.deps.json
+C:\Users\joaoh\source\repos\HRMMicroservice\Interview.APILayer\bin\Debug\net6.0\Hrm.Interview.APILayer.runtimeconfig.json
+C:\Users\joaoh\source\repos\HRMMicroservice\Interview.APILayer\bin\Debug\net6.0\Hrm.Interview.APILayer.dll
+C:\Users\joaoh\source\repos\HRMMicroservice\Interview.APILayer\bin\Debug\net6.0\Hrm.Interview.APILayer.pdb
+C:\Users\joaoh\source\repos\HRMMicroservice\Interview.APILayer\obj\Debug\net6.0\Hrm.Interview.APILayer.csproj.AssemblyReference.cache
+C:\Users\joaoh\source\repos\HRMMicroservice\Interview.APILayer\obj\Debug\net6.0\Hrm.Interview.APILayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoh\source\repos\HRMMicroservice\Interview.APILayer\obj\Debug\net6.0\Hrm.Interview.APILayer.AssemblyInfoInputs.cache
+C:\Users\joaoh\source\repos\HRMMicroservice\Interview.APILayer\obj\Debug\net6.0\Hrm.Interview.APILayer.AssemblyInfo.cs
+C:\Users\joaoh\source\repos\HRMMicroservice\Interview.APILayer\obj\Debug\net6.0\Hrm.Interview.APILayer.csproj.CoreCompileInputs.cache
+C:\Users\joaoh\source\repos\HRMMicroservice\Interview.APILayer\obj\Debug\net6.0\Hrm.Interview.APILayer.dll
+C:\Users\joaoh\source\repos\HRMMicroservice\Interview.APILayer\obj\Debug\net6.0\refint\Hrm.Interview.APILayer.dll
+C:\Users\joaoh\source\repos\HRMMicroservice\Interview.APILayer\obj\Debug\net6.0\Hrm.Interview.APILayer.pdb
+C:\Users\joaoh\source\repos\HRMMicroservice\Interview.APILayer\obj\Debug\net6.0\Hrm.Interview.APILayer.genruntimeconfig.cache
+C:\Users\joaoh\source\repos\HRMMicroservice\Interview.APILayer\obj\Debug\net6.0\ref\Hrm.Interview.APILayer.dll

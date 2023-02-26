@@ -1,0 +1,17 @@
+C:\Users\joaoh\source\repos\HRMMicroservice\Interview.Infrastructure\bin\Debug\net6.0\Hrm.Interview.Infrastructure.deps.json
+C:\Users\joaoh\source\repos\HRMMicroservice\Interview.Infrastructure\bin\Debug\net6.0\Hrm.Interview.Infrastructure.runtimeconfig.json
+C:\Users\joaoh\source\repos\HRMMicroservice\Interview.Infrastructure\bin\Debug\net6.0\Hrm.Interview.Infrastructure.dll
+C:\Users\joaoh\source\repos\HRMMicroservice\Interview.Infrastructure\bin\Debug\net6.0\Hrm.Interview.Infrastructure.pdb
+C:\Users\joaoh\source\repos\HRMMicroservice\Interview.Infrastructure\obj\Debug\net6.0\Hrm.Interview.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\joaoh\source\repos\HRMMicroservice\Interview.Infrastructure\obj\Debug\net6.0\Hrm.Interview.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoh\source\repos\HRMMicroservice\Interview.Infrastructure\obj\Debug\net6.0\Hrm.Interview.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\joaoh\source\repos\HRMMicroservice\Interview.Infrastructure\obj\Debug\net6.0\Hrm.Interview.Infrastructure.AssemblyInfo.cs
+C:\Users\joaoh\source\repos\HRMMicroservice\Interview.Infrastructure\obj\Debug\net6.0\Hrm.Interview.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\joaoh\source\repos\HRMMicroservice\Interview.Infrastructure\obj\Debug\net6.0\Hrm.Interview.Infrastructure.dll
+C:\Users\joaoh\source\repos\HRMMicroservice\Interview.Infrastructure\obj\Debug\net6.0\refint\Hrm.Interview.Infrastructure.dll
+C:\Users\joaoh\source\repos\HRMMicroservice\Interview.Infrastructure\obj\Debug\net6.0\Hrm.Interview.Infrastructure.pdb
+C:\Users\joaoh\source\repos\HRMMicroservice\Interview.Infrastructure\obj\Debug\net6.0\Hrm.Interview.Infrastructure.genruntimeconfig.cache
+C:\Users\joaoh\source\repos\HRMMicroservice\Interview.Infrastructure\obj\Debug\net6.0\ref\Hrm.Interview.Infrastructure.dll
+C:\Users\joaoh\source\repos\HRMMicroservice\Interview.Infrastructure\bin\Debug\net6.0\Hrm.Interview.ApplicationLayer.dll
+C:\Users\joaoh\source\repos\HRMMicroservice\Interview.Infrastructure\bin\Debug\net6.0\Hrm.Interview.ApplicationLayer.pdb
+C:\Users\joaoh\source\repos\HRMMicroservice\Interview.Infrastructure\obj\Debug\net6.0\Hrm.Interview.Infrastructure.csproj.CopyComplete
