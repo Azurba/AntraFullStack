@@ -29,11 +29,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hrm.Onboarding.Infrastructu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hrm.Interview.APILayer", "Hrm.Interview.APILayer\Hrm.Interview.APILayer.csproj", "{6F7FADFA-11FE-40DA-9FBA-1A1F2615C4DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hrm.Authorization.APILayer", "Hrm.Authorization.APILayer\Hrm.Authorization.APILayer.csproj", "{71239873-0AE8-45DD-873E-54F3F3D54A1A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hrm.Authorization.APILayer", "Hrm.Authorization.APILayer\Hrm.Authorization.APILayer.csproj", "{71239873-0AE8-45DD-873E-54F3F3D54A1A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hrm.Authorization.ApplicationLayer", "Hrm.Authorization.ApplicationLayer\Hrm.Authorization.ApplicationLayer.csproj", "{DA1CAFBD-3B53-47E7-B1FA-BC47A6851949}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hrm.Authorization.ApplicationLayer", "Hrm.Authorization.ApplicationLayer\Hrm.Authorization.ApplicationLayer.csproj", "{DA1CAFBD-3B53-47E7-B1FA-BC47A6851949}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hrm.Authorization.Infrastructure", "Hrm.Authorization.Infrastructure\Hrm.Authorization.Infrastructure.csproj", "{09738307-F9C4-4576-8DEC-492F776E3407}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hrm.Authorization.Infrastructure", "Hrm.Authorization.Infrastructure\Hrm.Authorization.Infrastructure.csproj", "{09738307-F9C4-4576-8DEC-492F776E3407}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{F49A6BEE-AC1C-4B64-92DF-E22E8B42DCBE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -89,6 +91,10 @@ Global
 		{09738307-F9C4-4576-8DEC-492F776E3407}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09738307-F9C4-4576-8DEC-492F776E3407}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09738307-F9C4-4576-8DEC-492F776E3407}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F49A6BEE-AC1C-4B64-92DF-E22E8B42DCBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F49A6BEE-AC1C-4B64-92DF-E22E8B42DCBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F49A6BEE-AC1C-4B64-92DF-E22E8B42DCBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F49A6BEE-AC1C-4B64-92DF-E22E8B42DCBE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

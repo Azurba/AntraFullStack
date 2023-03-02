@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "JuevhGQSA+23YlSJs6rhV13wZbSCdpunvA1pRuTVdZQTcA/Jga882r3wtCbz824IWGIVEfHhgLPM1PJrzLv9aw==",
+  "dgSpecHash": "QoCM3xFiq55BQYyssGzCiZLwjATgby+GnFw5YYJUfFfBCa/lqffaHuyEiLb/jUJc4wmW0RhpdDPF6dWa9+LPIA==",
   "success": true,
   "projectFilePath": "D:\\Github\\AntraFullStack\\Training2\\HrmAPI_Docker\\HumanResource.APILayer\\HumanResource.APILayer.csproj",
   "expectedPackageFiles": [
@@ -41,6 +41,7 @@
     "C:\\Users\\joaoh\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\joaoh\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\joaoh\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
+    "C:\\Users\\joaoh\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
     "C:\\Users\\joaoh\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\joaoh\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
     "C:\\Users\\joaoh\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
