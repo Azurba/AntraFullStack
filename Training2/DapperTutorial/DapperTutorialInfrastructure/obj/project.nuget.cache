@@ -1,10 +1,9 @@
 {
   "version": 2,
-  "dgSpecHash": "TnLmO+VTnxwed91SZqo2Lp9xEi41L5x2+v2bKDIl+zHUPQHoPoq0bJGxJE2TROfObfgE2EGVBDs26+rZH7Gy8w==",
+  "dgSpecHash": "3aCl775Sb98gHKp+uuW1P5qMkAzqtEjIihdsUz4k9XAQzoJoUwkNiCoKmOd2ubzpDsl83CxsxJ7IRAem9KHqjw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joaoh\\source\\repos\\DapperTutorial\\DapperTutorialInfrastructure\\DapperTutorialInfrastructure.csproj",
+  "projectFilePath": "D:\\Github\\AntraFullStack\\Training2\\DapperTutorial\\DapperTutorialInfrastructure\\DapperTutorialInfrastructure.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\joaoh\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.3\\microsoft.data.sqlite.core.7.0.3.nupkg.sha512",
     "C:\\Users\\joaoh\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\joaoh\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\joaoh\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\7.0.0\\microsoft.extensions.configuration.fileextensions.7.0.0.nupkg.sha512",
@@ -19,9 +18,7 @@
     "C:\\Users\\joaoh\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\joaoh\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\joaoh\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
-    "C:\\Users\\joaoh\\.nuget\\packages\\sqlitepclraw.core\\2.1.4\\sqlitepclraw.core.2.1.4.nupkg.sha512",
     "C:\\Users\\joaoh\\.nuget\\packages\\system.data.sqlclient\\4.8.5\\system.data.sqlclient.4.8.5.nupkg.sha512",
-    "C:\\Users\\joaoh\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\joaoh\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\joaoh\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
     "C:\\Users\\joaoh\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",

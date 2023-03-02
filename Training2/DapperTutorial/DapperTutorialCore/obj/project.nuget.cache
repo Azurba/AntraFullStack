@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fOtD6JY8vtZC/0zJ1NP51HIZGd7Tn9zAqtd3sCXcxmqCWd6AJmqQATECoNknlpwRwLMIi1bnxLZ61qaBVkhagg==",
+  "dgSpecHash": "4L+VN30nbLX2dFc0wALFQ+/4rmYfM/fatj+rJVICrFn/wWJuXVTdag5IMX1M2uTDP+q9o++GSM8e/n1UoTMgng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joaoh\\source\\repos\\DapperTutorial\\DapperTutorialCore\\DapperTutorialCore.csproj",
+  "projectFilePath": "D:\\Github\\AntraFullStack\\Training2\\DapperTutorial\\DapperTutorialCore\\DapperTutorialCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joaoh\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\joaoh\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",

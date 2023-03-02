@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joaoh\\source\\repos\\DotNetConcepts\\DotNetConcepts\\DotNetConcepts.csproj",
+      "projectUniqueName": "D:\\Github\\AntraFullStack\\Training2\\DotNetConcepts\\DotNetConcepts\\DotNetConcepts.csproj",
       "projectName": "DotNetConcepts",
-      "projectPath": "C:\\Users\\joaoh\\source\\repos\\DotNetConcepts\\DotNetConcepts\\DotNetConcepts.csproj",
+      "projectPath": "D:\\Github\\AntraFullStack\\Training2\\DotNetConcepts\\DotNetConcepts\\DotNetConcepts.csproj",
       "packagesPath": "C:\\Users\\joaoh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joaoh\\source\\repos\\DotNetConcepts\\DotNetConcepts\\obj\\",
+      "outputPath": "D:\\Github\\AntraFullStack\\Training2\\DotNetConcepts\\DotNetConcepts\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\joaoh\\AppData\\Roaming\\NuGet\\NuGet.Config",

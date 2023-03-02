@@ -1,5 +1,4 @@
-﻿using Microsoft.Data.Sqlite;
-using Microsoft.Extensions.Configuration;
+﻿using Microsoft.Extensions.Configuration;
 using System;
 using System.Collections.Generic;
 using System.Data;
@@ -13,7 +12,7 @@ namespace DapperTutorialInfrastructure.Data
     
     public class DapperDBContext
     {
-        IDbConnection dbConnection;
+        SqlConnection dbConnection;
         IConfiguration configuration;
 
         public DapperDBContext()
@@ -24,14 +23,13 @@ namespace DapperTutorialInfrastructure.Data
             //dbConnection = new SqliteConnection("Data Source=.;Initial Catalog=JanBatch2023;Integrated Security=True");
         }
         //Method to Get the connection
-        public IDbConnection GetConnection()
+        public SqlConnection GetConnection()
         { 
             return dbConnection; 
         }
 
 
-        //You can also pass to the constructor the configuration for the conncetion
-
+        //You can also pass to the constructor the configuration for the connection
         public DapperDBContext(IConfiguration config)
         {
             configuration = config;

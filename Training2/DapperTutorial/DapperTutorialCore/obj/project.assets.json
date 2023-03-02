@@ -583,11 +583,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joaoh\\source\\repos\\DapperTutorial\\DapperTutorialCore\\DapperTutorialCore.csproj",
+      "projectUniqueName": "D:\\Github\\AntraFullStack\\Training2\\DapperTutorial\\DapperTutorialCore\\DapperTutorialCore.csproj",
       "projectName": "DapperTutorialCore",
-      "projectPath": "C:\\Users\\joaoh\\source\\repos\\DapperTutorial\\DapperTutorialCore\\DapperTutorialCore.csproj",
+      "projectPath": "D:\\Github\\AntraFullStack\\Training2\\DapperTutorial\\DapperTutorialCore\\DapperTutorialCore.csproj",
       "packagesPath": "C:\\Users\\joaoh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joaoh\\source\\repos\\DapperTutorial\\DapperTutorialCore\\obj\\",
+      "outputPath": "D:\\Github\\AntraFullStack\\Training2\\DapperTutorial\\DapperTutorialCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\joaoh\\AppData\\Roaming\\NuGet\\NuGet.Config",

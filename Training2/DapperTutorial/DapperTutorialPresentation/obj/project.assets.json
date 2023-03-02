@@ -602,11 +602,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joaoh\\source\\repos\\DapperTutorial\\DapperTutorialPresentation\\DapperTutorialPresentation.csproj",
+      "projectUniqueName": "D:\\Github\\AntraFullStack\\Training2\\DapperTutorial\\DapperTutorialPresentation\\DapperTutorialPresentation.csproj",
       "projectName": "DapperTutorialPresentation",
-      "projectPath": "C:\\Users\\joaoh\\source\\repos\\DapperTutorial\\DapperTutorialPresentation\\DapperTutorialPresentation.csproj",
+      "projectPath": "D:\\Github\\AntraFullStack\\Training2\\DapperTutorial\\DapperTutorialPresentation\\DapperTutorialPresentation.csproj",
       "packagesPath": "C:\\Users\\joaoh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joaoh\\source\\repos\\DapperTutorial\\DapperTutorialPresentation\\obj\\",
+      "outputPath": "D:\\Github\\AntraFullStack\\Training2\\DapperTutorial\\DapperTutorialPresentation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\joaoh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -623,8 +623,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\joaoh\\source\\repos\\DapperTutorial\\Dapper\\Dapper.csproj": {
-              "projectPath": "C:\\Users\\joaoh\\source\\repos\\DapperTutorial\\Dapper\\Dapper.csproj"
+            "D:\\Github\\AntraFullStack\\Training2\\DapperTutorial\\Dapper\\Dapper.csproj": {
+              "projectPath": "D:\\Github\\AntraFullStack\\Training2\\DapperTutorial\\Dapper\\Dapper.csproj"
             }
           }
         }

@@ -3,6 +3,7 @@ using DapperTutorialCore.Entities;
 using DapperTutorialInfrastructure.Data;
 using System;
 using System.Collections.Generic;
+using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -21,10 +22,11 @@ namespace DapperTutorialInfrastructure.Repositories
         public int DeleteById(int id)
         {
 
-            using (var conn = dbContext.GetConnection()) 
+            using (var conn = new SqlConnection("Data Source=.;Initial Catalog=JanBatch2023;Integrated Security=True")) 
             {
                 conn.Open();
-                return conn.Execute("Delete From Department Where Id=@Id", new {deptId=id});
+                var sql = "Delete From Department Where Id=@Id";
+                return conn.QuerySingle(sql);
             };
             
         }
