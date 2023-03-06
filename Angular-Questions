@@ -1,3 +1,7 @@
 Ahead of time = Basically it will convert HTML and typescript to Javascript code during the build before the browser runs the code. In other worlds, in build time
 
 Just in time = it will compile the application in the browser at runtime (that is why comes the name).
+
+Single page application (SPA) is a web application that fits on a single page. 
+All your code (JavaScript, HTML, and CSS) is recovered with a single page stack. 
+Further more, route between pages performed without invigorating the entire page.
