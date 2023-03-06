@@ -1,0 +1,3 @@
+Ahead of time = Basically it will convert HTML and typescript to Javascript code during the build before the browser runs the code. In other worlds, in build time
+
+Just in time = it will compile the application in the browser at runtime (that is why comes the name).
