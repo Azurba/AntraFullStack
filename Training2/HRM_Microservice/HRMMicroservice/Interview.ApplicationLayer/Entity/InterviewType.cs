@@ -1,11 +1,14 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace Hrm.Interview.ApplicationLayer.Entity
+namespace Hrm.Interview.ApplicationCore.Entity
 {
     public class InterviewType
     {
-        public int LookupCode { get; set; }
-        [Column("varchar(500)")]
+        public int Id { get; set; }
         public string Description { get; set; }
     }
 }

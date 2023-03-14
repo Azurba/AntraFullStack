@@ -26,3 +26,17 @@ D:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Recruiti
 D:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Recruiting.ApplicationLayer\obj\Debug\net6.0\Hrm.Recruiting.ApplicationLayer.pdb
 D:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Recruiting.ApplicationLayer\obj\Debug\net6.0\Hrm.Recruiting.ApplicationLayer.genruntimeconfig.cache
 D:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Recruiting.ApplicationLayer\obj\Debug\net6.0\ref\Hrm.Recruiting.ApplicationLayer.dll
+C:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Recruiting.ApplicationLayer\bin\Debug\net6.0\Hrm.Recruiting.ApplicationLayer.deps.json
+C:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Recruiting.ApplicationLayer\bin\Debug\net6.0\Hrm.Recruiting.ApplicationLayer.runtimeconfig.json
+C:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Recruiting.ApplicationLayer\bin\Debug\net6.0\Hrm.Recruiting.ApplicationLayer.dll
+C:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Recruiting.ApplicationLayer\bin\Debug\net6.0\Hrm.Recruiting.ApplicationLayer.pdb
+C:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Recruiting.ApplicationLayer\obj\Debug\net6.0\Hrm.Recruiting.ApplicationLayer.csproj.AssemblyReference.cache
+C:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Recruiting.ApplicationLayer\obj\Debug\net6.0\Hrm.Recruiting.ApplicationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Recruiting.ApplicationLayer\obj\Debug\net6.0\Hrm.Recruiting.ApplicationLayer.AssemblyInfoInputs.cache
+C:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Recruiting.ApplicationLayer\obj\Debug\net6.0\Hrm.Recruiting.ApplicationLayer.AssemblyInfo.cs
+C:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Recruiting.ApplicationLayer\obj\Debug\net6.0\Hrm.Recruiting.ApplicationLayer.csproj.CoreCompileInputs.cache
+C:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Recruiting.ApplicationLayer\obj\Debug\net6.0\Hrm.Recruiting.ApplicationLayer.dll
+C:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Recruiting.ApplicationLayer\obj\Debug\net6.0\refint\Hrm.Recruiting.ApplicationLayer.dll
+C:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Recruiting.ApplicationLayer\obj\Debug\net6.0\Hrm.Recruiting.ApplicationLayer.pdb
+C:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Recruiting.ApplicationLayer\obj\Debug\net6.0\Hrm.Recruiting.ApplicationLayer.genruntimeconfig.cache
+C:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Recruiting.ApplicationLayer\obj\Debug\net6.0\ref\Hrm.Recruiting.ApplicationLayer.dll

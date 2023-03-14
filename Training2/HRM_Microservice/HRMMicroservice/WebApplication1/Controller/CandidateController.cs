@@ -1,9 +1,9 @@
-﻿using Hrm.Recruiting.ApplicationLayer.Contract.Services;
-using Hrm.Recruiting.ApplicationLayer.Model.Request;
+﻿using Hrm.Recruiting.ApplicationCore.Contract.Service;
+using Hrm.Recruiting.ApplicationCore.Model.Request;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Hrm.RecruitingAPILayer.Controller
+namespace Hrm.Recruiting.APILayer.Controller
 {
     [Route("api/[controller]")]
     [ApiController]
@@ -24,7 +24,7 @@ namespace Hrm.RecruitingAPILayer.Controller
                 await candidateServiceAsync.AddCandidateAsync(model);
                 return Ok(model);
             }
-            return BadRequest(model);
+            return BadRequest();
         }
         [HttpGet]
         public async Task<IActionResult> Get()

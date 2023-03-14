@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Hrm.Recruiting.ApplicationLayer\\Hrm.Recruiting.ApplicationLayer.csproj": {}
+    "C:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Hrm.Recruiting.ApplicationLayer\\Hrm.Recruiting.ApplicationLayer.csproj": {}
   },
   "projects": {
-    "D:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Hrm.Recruiting.ApplicationLayer\\Hrm.Recruiting.ApplicationLayer.csproj": {
+    "C:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Hrm.Recruiting.ApplicationLayer\\Hrm.Recruiting.ApplicationLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Hrm.Recruiting.ApplicationLayer\\Hrm.Recruiting.ApplicationLayer.csproj",
+        "projectUniqueName": "C:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Hrm.Recruiting.ApplicationLayer\\Hrm.Recruiting.ApplicationLayer.csproj",
         "projectName": "Hrm.Recruiting.ApplicationLayer",
-        "projectPath": "D:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Hrm.Recruiting.ApplicationLayer\\Hrm.Recruiting.ApplicationLayer.csproj",
+        "projectPath": "C:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Hrm.Recruiting.ApplicationLayer\\Hrm.Recruiting.ApplicationLayer.csproj",
         "packagesPath": "C:\\Users\\joaoh\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Hrm.Recruiting.ApplicationLayer\\obj\\",
+        "outputPath": "C:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Hrm.Recruiting.ApplicationLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joaoh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,9 +40,13 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[7.0.3, )"
+              "version": "[7.0.4, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",

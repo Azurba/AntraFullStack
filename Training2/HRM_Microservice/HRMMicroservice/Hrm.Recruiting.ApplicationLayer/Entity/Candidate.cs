@@ -6,23 +6,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Hrm.Recruiting.ApplicationLayer.Entity
+namespace Hrm.Recruiting.ApplicationCore.Entity
 {
     public class Candidate
     {
-        public int CandidateId { get; set; }
-        [Required]
-        [Column("varchar(20)")]
+        public int Id { get; set; }
+        [Required, Column("varchar(25)")]
         public string FirstName { get; set; }
-        public string? MiddleName { get; set; }
-        [Required]
-        [Column("varchar(25)")]
+        [Required, Column("varchar(26)")]
         public string LastName { get; set; }
-        [Required]
-        [Column("varchar(15)"), DataType(DataType.PhoneNumber)]
+        [Required, Column("varchar(15)"), DataType(DataType.PhoneNumber)]
         public string Mobile { get; set; }
-        public string Email { get; set; }
-        public string? ResumeURL { get; set; }
-
+        public string EmailId { get; set; }
+        public string? ResumeUrl { get; set; }
     }
 }

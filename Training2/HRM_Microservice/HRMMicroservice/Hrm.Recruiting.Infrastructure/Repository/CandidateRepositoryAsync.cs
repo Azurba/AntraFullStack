@@ -1,5 +1,5 @@
-﻿using Hrm.Recruiting.ApplicationLayer.Contract.Repository;
-using Hrm.Recruiting.ApplicationLayer.Entity;
+﻿using Hrm.Recruiting.ApplicationCore.Contract.Repository;
+using Hrm.Recruiting.ApplicationCore.Entity;
 using Hrm.Recruiting.Infrastructure.Data;
 using System;
 using System.Collections.Generic;
@@ -11,7 +11,7 @@ namespace Hrm.Recruiting.Infrastructure.Repository
 {
     public class CandidateRepositoryAsync : BaseRepositoryAsync<Candidate>, ICandidateRepositoryAsync
     {
-        public CandidateRepositoryAsync(RecruitingDbContext _context) : base(_context)
+        public CandidateRepositoryAsync(RecruitmentDbContext _context) : base(_context)
         {
         }
     }

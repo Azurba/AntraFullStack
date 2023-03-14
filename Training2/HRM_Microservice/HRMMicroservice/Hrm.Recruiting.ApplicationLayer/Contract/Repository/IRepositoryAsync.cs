@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Hrm.Recruiting.ApplicationLayer.Contract.Repository
+namespace Hrm.Recruiting.ApplicationCore.Contract.Repository
 {
     public interface IRepositoryAsync<T> where T : class
     {
@@ -13,5 +13,6 @@ namespace Hrm.Recruiting.ApplicationLayer.Contract.Repository
         Task<int> DeleteAsync(int id);
         Task<T> GetByIdAsync(int id);
         Task<IEnumerable<T>> GetAllAsync();
+
     }
 }

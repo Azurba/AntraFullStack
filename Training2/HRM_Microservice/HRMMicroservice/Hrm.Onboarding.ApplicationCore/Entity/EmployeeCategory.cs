@@ -1,16 +1,17 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Hrm.Onboarding.ApplicationCore.Entity
+namespace Hrm.Onboard.ApplicationCore.Entity
 {
     public class EmployeeCategory
     {
-        public int LookupCode { get; set; }
-        [Column("varchar(512)")]
+        public int Id { get; set; }
+        [Required, Column(TypeName = "nvarchar(512)")]
         public string Description { get; set; }
     }
 }

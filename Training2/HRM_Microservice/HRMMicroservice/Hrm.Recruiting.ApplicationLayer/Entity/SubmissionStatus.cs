@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Hrm.Recruiting.ApplicationLayer.Entity
+namespace Hrm.Recruiting.ApplicationCore.Entity
 {
     public class SubmissionStatus
     {

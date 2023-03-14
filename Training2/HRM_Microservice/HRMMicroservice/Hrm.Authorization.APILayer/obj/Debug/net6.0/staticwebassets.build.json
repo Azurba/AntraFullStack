@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yz98hVLaCA1690DFRVdqvXSyqdh913dfMPgIrPynDBk=",
+  "Source": "Hrm.Authorization.APILayer",
+  "BasePath": "_content/Hrm.Authorization.APILayer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

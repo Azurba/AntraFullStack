@@ -1,17 +1,108 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Hrm.Authorization.APILayer\\Hrm.Authorization.APILayer.csproj": {}
+    "C:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Hrm.Authorization.APILayer\\Hrm.Authorization.APILayer.csproj": {}
   },
   "projects": {
-    "D:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Hrm.Authorization.APILayer\\Hrm.Authorization.APILayer.csproj": {
+    "C:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Hrm.Authorization.APILayer\\Hrm.Authorization.APILayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Hrm.Authorization.APILayer\\Hrm.Authorization.APILayer.csproj",
+        "projectUniqueName": "C:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Hrm.Authorization.APILayer\\Hrm.Authorization.APILayer.csproj",
         "projectName": "Hrm.Authorization.APILayer",
-        "projectPath": "D:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Hrm.Authorization.APILayer\\Hrm.Authorization.APILayer.csproj",
+        "projectPath": "C:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Hrm.Authorization.APILayer\\Hrm.Authorization.APILayer.csproj",
         "packagesPath": "C:\\Users\\joaoh\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Hrm.Authorization.APILayer\\obj\\",
+        "outputPath": "C:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Hrm.Authorization.APILayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\joaoh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Hrm.Authorization.ApplicationLayer\\Hrm.Authorization.ApplicationLayer.csproj": {
+                "projectPath": "C:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Hrm.Authorization.ApplicationLayer\\Hrm.Authorization.ApplicationLayer.csproj"
+              },
+              "C:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Hrm.Authorization.Infrastructure\\Hrm.Authorization.Infrastructure.csproj": {
+                "projectPath": "C:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Hrm.Authorization.Infrastructure\\Hrm.Authorization.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Hrm.Authorization.ApplicationLayer\\Hrm.Authorization.ApplicationLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Hrm.Authorization.ApplicationLayer\\Hrm.Authorization.ApplicationLayer.csproj",
+        "projectName": "Hrm.Authorization.ApplicationLayer",
+        "projectPath": "C:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Hrm.Authorization.ApplicationLayer\\Hrm.Authorization.ApplicationLayer.csproj",
+        "packagesPath": "C:\\Users\\joaoh\\.nuget\\packages\\",
+        "outputPath": "C:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Hrm.Authorization.ApplicationLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joaoh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,13 +135,17 @@
               "target": "Package",
               "version": "[2.0.123, )"
             },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
               "version": "[7.0.0, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.2.3, )"
             },
             "System.Data.SqlClient": {
               "target": "Package",
@@ -69,9 +164,87 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Hrm.Authorization.Infrastructure\\Hrm.Authorization.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Hrm.Authorization.Infrastructure\\Hrm.Authorization.Infrastructure.csproj",
+        "projectName": "Hrm.Authorization.Infrastructure",
+        "projectPath": "C:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Hrm.Authorization.Infrastructure\\Hrm.Authorization.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\joaoh\\.nuget\\packages\\",
+        "outputPath": "C:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Hrm.Authorization.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\joaoh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Hrm.Authorization.ApplicationLayer\\Hrm.Authorization.ApplicationLayer.csproj": {
+                "projectPath": "C:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Hrm.Authorization.ApplicationLayer\\Hrm.Authorization.ApplicationLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
             },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

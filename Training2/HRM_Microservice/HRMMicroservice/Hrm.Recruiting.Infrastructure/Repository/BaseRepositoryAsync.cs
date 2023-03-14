@@ -1,4 +1,4 @@
-﻿using Hrm.Recruiting.ApplicationLayer.Contract.Repository;
+﻿using Hrm.Recruiting.ApplicationCore.Contract.Repository;
 using Hrm.Recruiting.Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
 using System;
@@ -11,8 +11,8 @@ namespace Hrm.Recruiting.Infrastructure.Repository
 {
     public class BaseRepositoryAsync<T> : IRepositoryAsync<T> where T : class
     {
-        private readonly RecruitingDbContext db;
-        public BaseRepositoryAsync(RecruitingDbContext _context)
+        private readonly RecruitmentDbContext db;
+        public BaseRepositoryAsync(RecruitmentDbContext _context)
         {
             db = _context;
         }

@@ -1,0 +1,12 @@
+C:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Authorization.ApplicationLayer\bin\Debug\net6.0\Hrm.Authorization.ApplicationLayer.deps.json
+C:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Authorization.ApplicationLayer\bin\Debug\net6.0\Hrm.Authorization.ApplicationLayer.dll
+C:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Authorization.ApplicationLayer\bin\Debug\net6.0\Hrm.Authorization.ApplicationLayer.pdb
+C:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Authorization.ApplicationLayer\obj\Debug\net6.0\Hrm.Authorization.ApplicationLayer.csproj.AssemblyReference.cache
+C:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Authorization.ApplicationLayer\obj\Debug\net6.0\Hrm.Authorization.ApplicationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Authorization.ApplicationLayer\obj\Debug\net6.0\Hrm.Authorization.ApplicationLayer.AssemblyInfoInputs.cache
+C:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Authorization.ApplicationLayer\obj\Debug\net6.0\Hrm.Authorization.ApplicationLayer.AssemblyInfo.cs
+C:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Authorization.ApplicationLayer\obj\Debug\net6.0\Hrm.Authorization.ApplicationLayer.csproj.CoreCompileInputs.cache
+C:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Authorization.ApplicationLayer\obj\Debug\net6.0\Hrm.Authorization.ApplicationLayer.dll
+C:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Authorization.ApplicationLayer\obj\Debug\net6.0\refint\Hrm.Authorization.ApplicationLayer.dll
+C:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Authorization.ApplicationLayer\obj\Debug\net6.0\Hrm.Authorization.ApplicationLayer.pdb
+C:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Authorization.ApplicationLayer\obj\Debug\net6.0\ref\Hrm.Authorization.ApplicationLayer.dll

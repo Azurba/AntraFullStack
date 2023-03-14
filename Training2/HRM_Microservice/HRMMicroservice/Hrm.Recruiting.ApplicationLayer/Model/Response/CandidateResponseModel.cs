@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Hrm.Recruiting.ApplicationLayer.Model.Response
+namespace Hrm.Recruiting.ApplicationCore.Model.Response
 {
     public class CandidateResponseModel
     {

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Hrm.Interview.APILayer\\Hrm.Interview.APILayer.csproj": {}
+    "C:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Hrm.Interview.APILayer\\Hrm.Interview.APILayer.csproj": {}
   },
   "projects": {
-    "D:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Hrm.Interview.APILayer\\Hrm.Interview.APILayer.csproj": {
+    "C:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Hrm.Interview.APILayer\\Hrm.Interview.APILayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Hrm.Interview.APILayer\\Hrm.Interview.APILayer.csproj",
+        "projectUniqueName": "C:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Hrm.Interview.APILayer\\Hrm.Interview.APILayer.csproj",
         "projectName": "Hrm.Interview.APILayer",
-        "projectPath": "D:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Hrm.Interview.APILayer\\Hrm.Interview.APILayer.csproj",
+        "projectPath": "C:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Hrm.Interview.APILayer\\Hrm.Interview.APILayer.csproj",
         "packagesPath": "C:\\Users\\joaoh\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Hrm.Interview.APILayer\\obj\\",
+        "outputPath": "C:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Hrm.Interview.APILayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joaoh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Interview.Infrastructure\\Hrm.Interview.Infrastructure.csproj": {
-                "projectPath": "D:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Interview.Infrastructure\\Hrm.Interview.Infrastructure.csproj"
+              "C:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Interview.Infrastructure\\Hrm.Interview.Infrastructure.csproj": {
+                "projectPath": "C:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Interview.Infrastructure\\Hrm.Interview.Infrastructure.csproj"
               }
             }
           }
@@ -44,6 +44,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
@@ -72,14 +80,14 @@
         }
       }
     },
-    "D:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Interview.ApplicationLayer\\Hrm.Interview.ApplicationLayer.csproj": {
+    "C:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Interview.ApplicationLayer\\Hrm.Interview.ApplicationLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Interview.ApplicationLayer\\Hrm.Interview.ApplicationLayer.csproj",
+        "projectUniqueName": "C:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Interview.ApplicationLayer\\Hrm.Interview.ApplicationLayer.csproj",
         "projectName": "Hrm.Interview.ApplicationLayer",
-        "projectPath": "D:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Interview.ApplicationLayer\\Hrm.Interview.ApplicationLayer.csproj",
+        "projectPath": "C:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Interview.ApplicationLayer\\Hrm.Interview.ApplicationLayer.csproj",
         "packagesPath": "C:\\Users\\joaoh\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Interview.ApplicationLayer\\obj\\",
+        "outputPath": "C:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Interview.ApplicationLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joaoh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -108,9 +116,13 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[7.0.3, )"
+              "version": "[7.0.4, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
@@ -139,14 +151,14 @@
         }
       }
     },
-    "D:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Interview.Infrastructure\\Hrm.Interview.Infrastructure.csproj": {
+    "C:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Interview.Infrastructure\\Hrm.Interview.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Interview.Infrastructure\\Hrm.Interview.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Interview.Infrastructure\\Hrm.Interview.Infrastructure.csproj",
         "projectName": "Hrm.Interview.Infrastructure",
-        "projectPath": "D:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Interview.Infrastructure\\Hrm.Interview.Infrastructure.csproj",
+        "projectPath": "C:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Interview.Infrastructure\\Hrm.Interview.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\joaoh\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Interview.Infrastructure\\obj\\",
+        "outputPath": "C:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Interview.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joaoh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -163,8 +175,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Interview.ApplicationLayer\\Hrm.Interview.ApplicationLayer.csproj": {
-                "projectPath": "D:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Interview.ApplicationLayer\\Hrm.Interview.ApplicationLayer.csproj"
+              "C:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Interview.ApplicationLayer\\Hrm.Interview.ApplicationLayer.csproj": {
+                "projectPath": "C:\\Github\\AntraFullStack\\Training2\\HRM_Microservice\\HRMMicroservice\\Interview.ApplicationLayer\\Hrm.Interview.ApplicationLayer.csproj"
               }
             }
           }
@@ -179,9 +191,13 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[7.0.3, )"
+              "version": "[7.0.4, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",

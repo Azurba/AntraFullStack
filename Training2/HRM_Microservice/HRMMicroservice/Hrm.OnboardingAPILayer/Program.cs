@@ -1,4 +1,8 @@
-using Hrm.Onboarding.Infrastructure.Data;
+using Hrm.Onboard.ApplicationCore.Contract.Repository;
+using Hrm.Onboard.ApplicationCore.Contract.Service;
+using Hrm.Onboard.Infrastructure.Data;
+using Hrm.Onboard.Infrastructure.Repository;
+using Hrm.Onboard.Infrastructure.Service;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -9,9 +13,22 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-builder.Services.AddDbContext<OnboardingDbContext>(options => {
-    options.UseSqlServer(builder.Configuration.GetConnectionString("OnboardingDb"));
+builder.Services.AddDbContext<OnboardDbContext>(options =>
+{
+    options.UseSqlServer(builder.Configuration.GetConnectionString("OnboardDb"));
+    options.UseSqlServer(Environment.GetEnvironmentVariable("OnboardApi"));
 });
+
+//Dependency Injection
+builder.Services.AddScoped<IEmployeeRepositoryAsync, EmployeeRepositoryAsync>();
+builder.Services.AddScoped<IEmployeeServiceAsync, EmployeeServiceAsync>();
+builder.Services.AddScoped<IEmployeeRoleRepositoryAsync, EmployeeRoleRepositoryAsync>();
+builder.Services.AddScoped<IEmployeeRoleServiceAsync, EmployeeRoleServiceAsync>();
+builder.Services.AddScoped<IEmployeeCategoryRepositoryAsync, EmployeeCategoryRepositoryAsync>();
+builder.Services.AddScoped<IEmployeeCategoryServiceAsync, EmployeeCategoryServiceAsync>();
+builder.Services.AddScoped<IEmployeeStatusServiceAsync, EmployeeStatusServiceAsync>();
+builder.Services.AddScoped<IEmployeeStatusRepositoryAsync, EmployeeStatusRepositoryAsync>();
+
 
 var app = builder.Build();
 
@@ -22,9 +39,9 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-//app.UseAuthorization();
+app.UseRouting();
 
-//app.MapControllers();
+app.UseCors();
+app.UseEndpoints(endpoints => { endpoints.MapControllers(); });
 
-app.UseHttpsRedirection();
 app.Run();

@@ -1,8 +1,9 @@
-using Hrm.Recruiting.ApplicationLayer.Contract.Repository;
-using Hrm.Recruiting.ApplicationLayer.Contract.Services;
+using Hrm.Recruiting.ApplicationCore.Contract.Repository;
+using Hrm.Recruiting.ApplicationCore.Contract.Service;
 using Hrm.Recruiting.Infrastructure.Data;
 using Hrm.Recruiting.Infrastructure.Repository;
-using Hrm.Recruiting.Infrastructure.Services;
+using Hrm.Recruiting.Infrastructure.Service;
+
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -11,14 +12,25 @@ var builder = WebApplication.CreateBuilder(args);
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-builder.Services.AddDbContext<RecruitingDbContext>(options => {
-    //options.UseSqlServer(builder.Configuration.GetConnectionString("RecruitmentDb"));
-    options.UseSqlServer(Environment.GetEnvironmentVariable("RecruitmentDb"));
+builder.Services.AddControllers();
+builder.Services.AddDbContext<RecruitmentDbContext>(options =>
+{
+    options.UseSqlServer(builder.Configuration.GetConnectionString("RecruitmentDb"));
+    options.UseSqlServer(Environment.GetEnvironmentVariable("RecruitmentApi"));
+
 });
 
 //Dependency Injection
 builder.Services.AddScoped<ICandidateServiceAsync, CandidateServiceAsync>();
 builder.Services.AddScoped<ICandidateRepositoryAsync, CandidateRepositoryAsync>();
+builder.Services.AddScoped<IJobCategoryServiceAsync, JobCategoryServiceAsync>();
+builder.Services.AddScoped<IJobCategoryRepositoryAsync, JobCategoryRepositoryAsync>();
+builder.Services.AddScoped<IJobRequirementServiceAsync, JobRequirementServiceAsync>();
+builder.Services.AddScoped<IJobRequirementRepositoryAsync, JobRequirementRepositoryAsync>();
+builder.Services.AddScoped<ISubmissionServiceAsync, SubmissionServiceAsync>();
+builder.Services.AddScoped<ISubmissionRepositoryAsync, SubmissionRepositoryAsync>();
+builder.Services.AddScoped<ISubmissionStatusServiceAsync, SubmissionStatusServiceAsync>();
+builder.Services.AddScoped<ISubmissionStatusRepositoryAsync, SubmissionStatusRepositoryAsync>();
 
 builder.Services.AddCors(options =>
 {
@@ -39,6 +51,11 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.UseHttpsRedirection();
+app.UseRouting();
+
+app.UseCors();
+
+app.UseEndpoints(endpoints => { endpoints.MapControllers(); });
 
 app.Run();
+

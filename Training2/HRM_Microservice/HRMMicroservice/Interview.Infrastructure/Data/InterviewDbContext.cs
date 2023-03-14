@@ -1,6 +1,5 @@
-﻿using Hrm.Interview.ApplicationLayer.Entity;
+﻿using Hrm.Interview.ApplicationCore.Entity;
 using Microsoft.EntityFrameworkCore;
-
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,11 +14,12 @@ namespace Hrm.Interview.Infrastructure.Data
         {
 
         }
-        public DbSet<InterviewFeedback> InterviewFeedback { get; set; }
+
+        public DbSet<Interviews> Interviews { get; set; }
         public DbSet<Interviewer> Interviewer { get; set; }
-
         public DbSet<InterviewType> InterviewType { get; set; }
+        public DbSet<InterviewFeedback> InterviewFeedback { get; set; }
+        public DbSet<Recruiter> Recruiter { get; set; }
 
-        public DbSet<Interview2> Interviews { get; set; }
     }
 }

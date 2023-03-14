@@ -26,3 +26,17 @@ D:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Onboardi
 D:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Onboarding.ApplicationCore\obj\Debug\net6.0\Hrm.Onboarding.ApplicationCore.pdb
 D:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Onboarding.ApplicationCore\obj\Debug\net6.0\Hrm.Onboarding.ApplicationCore.genruntimeconfig.cache
 D:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Onboarding.ApplicationCore\obj\Debug\net6.0\ref\Hrm.Onboarding.ApplicationCore.dll
+C:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Onboarding.ApplicationCore\bin\Debug\net6.0\Hrm.Onboarding.ApplicationCore.deps.json
+C:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Onboarding.ApplicationCore\bin\Debug\net6.0\Hrm.Onboarding.ApplicationCore.runtimeconfig.json
+C:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Onboarding.ApplicationCore\bin\Debug\net6.0\Hrm.Onboarding.ApplicationCore.dll
+C:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Onboarding.ApplicationCore\bin\Debug\net6.0\Hrm.Onboarding.ApplicationCore.pdb
+C:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Onboarding.ApplicationCore\obj\Debug\net6.0\Hrm.Onboarding.ApplicationCore.csproj.AssemblyReference.cache
+C:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Onboarding.ApplicationCore\obj\Debug\net6.0\Hrm.Onboarding.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Onboarding.ApplicationCore\obj\Debug\net6.0\Hrm.Onboarding.ApplicationCore.AssemblyInfoInputs.cache
+C:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Onboarding.ApplicationCore\obj\Debug\net6.0\Hrm.Onboarding.ApplicationCore.AssemblyInfo.cs
+C:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Onboarding.ApplicationCore\obj\Debug\net6.0\Hrm.Onboarding.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Onboarding.ApplicationCore\obj\Debug\net6.0\Hrm.Onboarding.ApplicationCore.dll
+C:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Onboarding.ApplicationCore\obj\Debug\net6.0\refint\Hrm.Onboarding.ApplicationCore.dll
+C:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Onboarding.ApplicationCore\obj\Debug\net6.0\Hrm.Onboarding.ApplicationCore.pdb
+C:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Onboarding.ApplicationCore\obj\Debug\net6.0\Hrm.Onboarding.ApplicationCore.genruntimeconfig.cache
+C:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Onboarding.ApplicationCore\obj\Debug\net6.0\ref\Hrm.Onboarding.ApplicationCore.dll

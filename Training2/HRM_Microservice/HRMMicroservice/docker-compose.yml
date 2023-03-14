@@ -1,8 +1,8 @@
 version: '3.4'
 
-services:
-  hrm.recruitingapilayer:
-    image: ${DOCKER_REGISTRY-}hrmrecruitingapilayer
-    build:
-      context: .
-      dockerfile: WebApplication1\Dockerfile
+#services:
+#  hrm.recruitingapilayer:
+#    image: ${DOCKER_REGISTRY-}hrmrecruitingapilayer
+#    build:
+#      context: .
+#      dockerfile: WebApplication1\Dockerfile

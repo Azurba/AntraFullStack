@@ -1,0 +1,15 @@
+C:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Authorization.Infrastructure\bin\Debug\net6.0\Hrm.Authorization.Infrastructure.deps.json
+C:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Authorization.Infrastructure\bin\Debug\net6.0\Hrm.Authorization.Infrastructure.dll
+C:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Authorization.Infrastructure\bin\Debug\net6.0\Hrm.Authorization.Infrastructure.pdb
+C:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Authorization.Infrastructure\bin\Debug\net6.0\Hrm.Authorization.ApplicationLayer.dll
+C:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Authorization.Infrastructure\bin\Debug\net6.0\Hrm.Authorization.ApplicationLayer.pdb
+C:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Authorization.Infrastructure\obj\Debug\net6.0\Hrm.Authorization.Infrastructure.csproj.AssemblyReference.cache
+C:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Authorization.Infrastructure\obj\Debug\net6.0\Hrm.Authorization.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Authorization.Infrastructure\obj\Debug\net6.0\Hrm.Authorization.Infrastructure.AssemblyInfoInputs.cache
+C:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Authorization.Infrastructure\obj\Debug\net6.0\Hrm.Authorization.Infrastructure.AssemblyInfo.cs
+C:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Authorization.Infrastructure\obj\Debug\net6.0\Hrm.Authorization.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Authorization.Infrastructure\obj\Debug\net6.0\Hrm.Authorization.Infrastructure.csproj.CopyComplete
+C:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Authorization.Infrastructure\obj\Debug\net6.0\Hrm.Authorization.Infrastructure.dll
+C:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Authorization.Infrastructure\obj\Debug\net6.0\refint\Hrm.Authorization.Infrastructure.dll
+C:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Authorization.Infrastructure\obj\Debug\net6.0\Hrm.Authorization.Infrastructure.pdb
+C:\Github\AntraFullStack\Training2\HRM_Microservice\HRMMicroservice\Hrm.Authorization.Infrastructure\obj\Debug\net6.0\ref\Hrm.Authorization.Infrastructure.dll

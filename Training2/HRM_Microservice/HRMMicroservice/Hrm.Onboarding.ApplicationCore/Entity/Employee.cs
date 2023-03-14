@@ -6,32 +6,33 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Hrm.Onboarding.ApplicationCore.Entity
+namespace Hrm.Onboard.ApplicationCore.Entity
 {
     public class Employee
     {
-        public int EmployeeId { get; set; }
-        [Required, Column("varchar(128)")]
+        public int Id { get; set; }
+        [Required, Column(TypeName = "nvarchar(128)")]
         public string FirstName { get; set; }
-        [Column("varchar(128)")]
-        public string? MiddleName { get; set; }
-        [Required, Column("varchar(128)")]
+        [Required, Column(TypeName = "nvarchar(128)")]
         public string LastName { get; set; }
-        [Required, Column("varchar(9)")]
-        public string SSN { get; set; }
-        [Required]
+        [Required, Column(TypeName = "nvarchar(128)")]
+        public string MiddleName { get; set; }
+        [Required, Column(TypeName = "nvarchar(9)")]
+        public int SSN { get; set; }
         public DateTime HireDate { get; set; }
         public DateTime EndDate { get; set; }
-        [Required]
-        public EmployeeCategory EmployeeCategoryCode { get; set; }
-        [Required]
-        public EmployeeStatus EmployeeStatusCode { get; set; }
+        public int EmployeeCategoryId { get; set; }
+        public int EmployeeStatusId { get; set; }
+        [Column(TypeName = "nvarchar(max)")]
         public string Address { get; set; }
-        [Required, Column("varchar(500)")]
-        public string Email { get; set; }
-        public EmployeeRole EmployeeRoleId { get; set; }
-        
-        
+        [Required, Column(TypeName = "nvarchar(max)")]
+        [DataType(DataType.EmailAddress)]
+        public string EmailAddress { get; set; }
+        public int EmployeeRoleId { get; set; }
 
+        //Navigational property
+        public EmployeeCategory EmployeeCategory { get; set; }
+        public EmployeeStatus EmployeeStatus { get; set; }
+        public EmployeeRole EmployeeRole { get; set; }
     }
 }
